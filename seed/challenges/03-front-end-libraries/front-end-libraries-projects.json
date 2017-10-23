@@ -28,6 +28,10 @@
           "title": "Создайте генератор случайных цитат",
           "description": []
         }
+        "fr": {
+          "title": "Créez un générateur de phrases aléatoires",
+          "description": []
+        }
       }
     },
     {
@@ -55,7 +59,10 @@
           "title": "Создайте хранилище рецептов",
           "description": []
         }
-      }
+        "fr": {
+          "title": "Créez un aperçu de Markdown",
+          "description": []
+        }
     },
     {
       "id": "587d7dbc367417b2b2512bae",
@@ -82,6 +89,10 @@
           "title": "Создайте игру \"Жизнь\"",
           "description": []
         }
+        "fr": {
+          "title": "Créer un jeu de la vie",
+          "description": []
+        }
       }
     },
     {
@@ -104,6 +115,10 @@
       "translations": {
         "es": {
           "title": "Crea una calculadora JavaScript",
+          "description": []
+        }
+        "fr": {
+          "title": "Сréez une calculatrice en Javascript",
           "description": []
         }
       }
@@ -130,6 +145,10 @@
         },
         "ru": {
           "title": "Создайте таймер Pomodoro",
+          "description": []
+        }
+        "fr": {
+          "title": "Сréez un pomodoro",
           "description": []
         }
       }
